@@ -1,0 +1,41 @@
+{
+  "total_products": 3391,
+  "total_target": 10173,
+  "generated": 9916,
+  "by_archetype": {
+    "FIRST_TIMER": 15,
+    "CASUAL_SATISFIED": 16,
+    "PRACTICAL_BUYER": 14,
+    "ENTHUSIAST": 17,
+    "MIXED_FEELINGS": 10,
+    "DISAPPOINTED": 7,
+    "COMPARISON_SHOPPER": 6,
+    "CANCELLER": 7,
+    "LOYAL_SUBSCRIBER": 13,
+    "GIFT_BUYER": 6,
+    "FRUSTRATED_COMPLAINER": 5,
+    "BRIEF_NEGATIVE": 4
+  },
+  "by_rating": {
+    "3.0": 16,
+    "4.0": 11,
+    "4.5": 17,
+    "5.0": 29,
+    "2.5": 13,
+    "2.0": 10,
+    "3.5": 12,
+    "1.0": 8,
+    "1.5": 4
+  },
+  "by_model": {
+    "llama-3.3-70b-versatile": 120
+  },
+  "failed": [
+    282,
+    290,
+    311,
+    320,
+    326,
+    332
+  ]
+}
